@@ -5,3 +5,6 @@
 [submodule "fplyr"]
 	path = fplyr
 	url = https://github.com/fmarotta/fplyr
+[submodule "netcutter"]
+	path = netcutter
+	url = https://github.com/fmarotta/netcutter
